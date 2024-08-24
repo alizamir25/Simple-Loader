@@ -105,19 +105,3 @@ body {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 }
-
-@media (max-width: 600px) {
-    h1 {
-        font-size: 2em;
-    }
-    .sigil-container {
-        width: 150px;
-        height: 150px;
-    }
-    .sigil {
-        font-size: 80px;
-    }
-    .description {
-        font-size: 1em;
-    }
-}
